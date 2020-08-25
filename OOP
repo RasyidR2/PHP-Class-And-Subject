@@ -1,0 +1,13 @@
+<?php
+
+//penjualan produk
+//laptop
+//aksesoris
+Class Produk{
+
+}
+
+$produk = new Produk();
+$produk = new Produk();
+
+?>
